@@ -22,9 +22,11 @@ Kaggle Notebook: [Link here](https://www.kaggle.com/code/mikeenting/motogp-circu
 ----------
 ## Project 3 - Analyzing Marc Marquez's wins per circuit direction
 
-To further illustrate the possibilities of the dataset created in Project 2 above, I created a to analyze the distribution of Marc Marquez's wins across the two possible circuit directions, being clockwise and anticlockwise.
+To further illustrate the possibilities of the dataset created in Project 2 above, I created a to analyze the distribution of Marc Marquez's wins across the two possible circuit directions, being clockwise and anticlockwise. I created an additional notebook that can be used to see the results of any other rider.
 
-Kaggle Notebook: [Link here](https://www.kaggle.com/code/mikeenting/marc-marquez-wins-per-circuit-direction)
+Kaggle Notebook - Marc Marquez: [Link here](https://www.kaggle.com/code/mikeenting/marc-marquez-wins-per-circuit-direction)
+
+Kaggle Notebook - General: [Link here](https://www.kaggle.com/code/mikeenting/motogp-rider-wins-per-circuit-direction#Introduction)
 
 ----------
 
