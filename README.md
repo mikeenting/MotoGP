@@ -29,9 +29,14 @@ Kaggle Notebook - Marc Marquez: [Link here](https://www.kaggle.com/code/mikeenti
 Kaggle Notebook - General: [Link here](https://www.kaggle.com/code/mikeenting/motogp-rider-wins-per-circuit-direction#Introduction)
 
 ----------
+## Project 4 - Interactive dashboard to explore historical results per circuit
+
+Using the dataset created in Project 2, this dashboard gives quick insights in the general information of a circuit (the number of races, year of the first and last race, number of corners), and the recent results. It also provides the top rider and constructors at that particular circuit. I use it to gain some insights before the start of a raceweekend.
+
+Looker Studio Dashboard: [Link here](https://lookerstudio.google.com/s/gyCA5B9shy8)
+
+----------
 
 ## Ideas for future projects in order of priority
-* An interactive dashboard to explore race historical results at a certain venue 
-  - Find some interesting insights before the start of a raceweekend
 * What do the results of the first 3 races say about the eventual season champion?
 * Which constructors are historically successfull at which circuits?
