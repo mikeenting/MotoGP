@@ -22,7 +22,7 @@ Kaggle Notebook: [Link here](https://www.kaggle.com/code/mikeenting/motogp-circu
 ----------
 ## Project 3 - Analyzing Marc Marquez's wins per circuit direction
 
-To further illustrate the possibilities of the dataset created in Project 2 above, I created a to analyze the distribution of Marc Marquez's wins across the two possible circuit directions, being clockwise and anticlockwise. I created an additional notebook that can be used to see the results of any other rider.
+To further illustrate the possibilities of the dataset created in Project 2 above, I created a notebook to analyze the distribution of Marc Marquez's wins across the two possible circuit directions, being clockwise and anticlockwise. I created an additional notebook that can be used to see the results of any other rider. 
 
 Kaggle Notebook - Marc Marquez: [Link here](https://www.kaggle.com/code/mikeenting/marc-marquez-wins-per-circuit-direction)
 
@@ -36,7 +36,17 @@ Using the dataset created in Project 2, this dashboard gives quick insights in t
 Looker Studio Dashboard: [Link here](https://lookerstudio.google.com/s/gyCA5B9shy8)
 
 ----------
+## Project 5 - Active years per rider for each category (dataset)
+
+To improve the notebook that looks at percentage of wins per circuit direction (created in project 3), I created a dataset that contains all riders and their active years per class.
+
+Kaggle Dataset: [Link here](https://www.kaggle.com/datasets/mikeenting/motogp-riders-active-years-per-category)
+
+Kaggle Notebook: [Link here](https://www.kaggle.com/code/mikeenting/motogp-creating-active-rider-years-dataset/edit)
+
+----------
 
 ## Ideas for future projects in order of priority
 * What do the results of the first 3 races say about the eventual season champion?
 * Which constructors are historically successfull at which circuits?
+* Adding a 'wet race' indicator to race results
